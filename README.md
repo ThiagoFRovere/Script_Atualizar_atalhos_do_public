@@ -1,0 +1,1 @@
+# Script_Atualizar_atalhos_do_public
