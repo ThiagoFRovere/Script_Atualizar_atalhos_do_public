@@ -1,7 +1,7 @@
 
-# 📌 nao_mexer.ps1 – Gerenciamento Centralizado de Atalhos Windows
+# 📌 gerenciamento_atalhos.ps1 – Gerenciamento Centralizado de Atalhos Windows
 
-O **`nao_mexer.ps1`** é um script PowerShell desenvolvido para **padronização e gerenciamento remoto de atalhos** em ambientes Windows corporativos.
+O **`gerenciamento_atalhos.ps1`** é um script PowerShell desenvolvido para **padronização e gerenciamento remoto de atalhos** em ambientes Windows corporativos.
 
 Ele permite **adicionar ou remover atalhos (.exe e .url)** na pasta **Public Desktop** dos computadores, com base em **listas de configuração externas**, facilitando a manutenção e a padronização do ambiente de trabalho dos usuários.
 
