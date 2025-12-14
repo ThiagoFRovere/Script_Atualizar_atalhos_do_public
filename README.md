@@ -62,6 +62,12 @@ Arquivos .exe .url entre outros..
 
 ---
 
+## 📝 Logs de sucesso e falhas
+
+O script gera automaticamente logs detalhados de execução, e validação das ações realizadas em cada estação.
+
+---
+
 ## 🖥️ Requisitos
 
 - Windows 10 ou superior
