@@ -1,0 +1,2 @@
+Nome do atalho a ser removido.url
+Nome do atalho a ser removido.exe
